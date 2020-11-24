@@ -75,7 +75,7 @@ Do you want to load example.txt? [y/n]: <i>y</i>
 2053 | Recording MSFT Options with 2020-12-4 expiration
 7492 | Recording MU Options with 2020-11-27 expiration
 9175 | Recording MU Options with 2020-12-4 expiration
-<b>console><b/>
+<b>console></b>
 </pre>
 
 Note: user inpput is italicized
